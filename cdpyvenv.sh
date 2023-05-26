@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
 # Change directory and activate Pipenv venv if a Pipfile is present.
 
